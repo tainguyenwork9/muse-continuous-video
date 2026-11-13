@@ -10,8 +10,8 @@ Ask Muse:
 
 ## Use
 
-Provide your detailed script, target duration, aspect ratio, visual style, and desired voice characteristics. The skill guides Muse through references, storyboarding, sequential clip generation, review batches of approximately three clips, and final MP4 plus separate SRT delivery.
+Provide your detailed script, target duration, aspect ratio, visual style, and desired voice characteristics. Muse works through references, internal storyboarding, sequential generation, automatic inspection and repair, and final MP4 plus separate SRT delivery without routine review pauses.
 
-Review stages can be skipped on request. Actual continuity and audio capabilities depend on the available tools; checks that Muse cannot perform require user review.
+Intermediate review is opt-in. Actual tool limits still apply: if Muse requires another user message to generate more clips, it saves progress and asks for continuation, not scene approval. Unavailable audiovisual checks are disclosed with the completed export. Material script changes and unresolved blockers may still require user input.
 
 See [SKILL.md](SKILL.md) for the skill instructions.
